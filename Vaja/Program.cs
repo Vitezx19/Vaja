@@ -10,6 +10,8 @@ namespace Vaja
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Pozdravljen git");
+            Console.ReadLine();
         }
     }
 }
