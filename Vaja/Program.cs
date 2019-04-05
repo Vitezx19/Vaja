@@ -12,6 +12,7 @@ namespace Vaja
         {
             Console.WriteLine("Pozdravljen git");
             Console.ReadLine();
+            adasdad
         }
     }
 }
